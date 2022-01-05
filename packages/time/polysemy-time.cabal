@@ -38,8 +38,6 @@ library
   other-modules:
       Prelude
       Paths_polysemy_time
-  autogen-modules:
-      Paths_polysemy_time
   hs-source-dirs:
       lib
   default-extensions:
