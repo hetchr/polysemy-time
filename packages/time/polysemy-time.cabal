@@ -36,7 +36,6 @@ library
       Polysemy.Time.Sleep
   other-modules:
       Prelude
-      Paths_polysemy_time
   hs-source-dirs:
       lib
   default-extensions:
@@ -119,7 +118,6 @@ test-suite polysemy-time-unit
       Polysemy.Time.Test.GhcTimeTest
       Polysemy.Time.Test.MeasureTest
       Polysemy.Time.Test.TimeUnitTest
-      Paths_polysemy_time
   hs-source-dirs:
       test
   default-extensions:
