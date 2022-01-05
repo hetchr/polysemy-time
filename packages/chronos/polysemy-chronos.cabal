@@ -16,7 +16,6 @@ license:        BSD-2-Clause-Patent
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
-    readme.md
     changelog.md
 
 library
